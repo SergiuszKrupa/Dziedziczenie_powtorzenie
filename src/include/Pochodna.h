@@ -9,6 +9,11 @@ class Pochodna : public Bazowa
     {
         cout<<"Pochodna";
     }
+    Pochodna()
+        {
+            cout<<"hello";
+        }
+ 
 
 
 };
